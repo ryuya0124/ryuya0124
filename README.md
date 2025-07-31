@@ -1,5 +1,12 @@
 ## Profile
 
+<a href="https://github.com/ryuya0124/">
+    <img src="https://komarev.com/ghpvc/?username=ryuya0124&style=flat-square" alt="ryuya0124" />
+  </a>
+  <a href="https://github.com/ryuya0124">
+    <img height="20" src="https://img.shields.io/github/followers/ryuya0124?label=follow&logo=github&style=flat-square" />
+  </a>
+
 <p align="left">
   <picture>
         <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.base.svg" width="400" />
