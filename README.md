@@ -1,4 +1,7 @@
-## Profile
+# Profile
+
+## Use of technology
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,arduino,html,css,js,php,nodejs,typescript,react,vue,python,fastapi,java,flutter,dart,cloudflare,postgres,github,octave)
 
 <a href="https://github.com/ryuya0124/">
     <img src="https://komarev.com/ghpvc/?username=ryuya0124&style=flat-square" alt="ryuya0124" />
