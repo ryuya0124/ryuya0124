@@ -1,7 +1,6 @@
 # Profile
 
-## Use of technology
-![Tech Stack](https://skillicons.dev/icons?i=c,cpp,arduino,html,css,js,php,nodejs,typescript,react,vue,python,fastapi,java,flutter,dart,cloudflare,postgres,github,octave)
+基本的に自分用のツール、アプリ、大学で作ったもの(Private Repo)があるよ
 
 <a href="https://github.com/ryuya0124/">
     <img src="https://komarev.com/ghpvc/?username=ryuya0124&style=flat-square" alt="ryuya0124" />
@@ -9,6 +8,9 @@
   <a href="https://github.com/ryuya0124">
     <img height="20" src="https://img.shields.io/github/followers/ryuya0124?label=follow&logo=github&style=flat-square" />
   </a>
+
+## Use of technology
+![Tech Stack](https://skillicons.dev/icons?i=c,cpp,arduino,html,css,js,php,nodejs,typescript,react,vue,python,fastapi,java,flutter,dart,cloudflare,postgres,github,octave)
 
 <p align="left" style="display:inline-block;">
   <img src="https://github-readme-stats.vercel.app/api?username=ryuya0124&count_private=true&theme=gotham&show_icons=true">
