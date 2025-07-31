@@ -8,7 +8,7 @@
   </a>
 
 <p align="left" style="display:inline-block;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryuya0124&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryuya0124&count_private=true&theme=gotham&show_icons=true">
 </a>
 
 <p align="left">
