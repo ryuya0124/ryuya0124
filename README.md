@@ -1,5 +1,6 @@
 ## Profile
 
+![](https://github-readme-stats.vercel.app/api/top-langs?username=ryuya0124)
 
 <p align="left">
   <picture>
