@@ -202,14 +202,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="104.58188553086393" height="8" fill="#427819"/>
-                    <rect mask="url(#languages-bar)" x="104.58188553086393" y="0" width="87.25636330159732" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="191.83824883246126" y="0" width="73.24774859346614" height="8" fill="#3178c6"/>
-                    <rect mask="url(#languages-bar)" x="265.0859974259274" y="0" width="73.22313255022752" height="8" fill="#00B4AB"/>
-                    <rect mask="url(#languages-bar)" x="338.3091299761549" y="0" width="62.63406174690463" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="400.94319172305956" y="0" width="33.532057543855835" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="434.47524926691534" y="0" width="13.39780305895606" height="8" fill="#4F5D95"/>
-                    <rect mask="url(#languages-bar)" x="447.8730523258714" y="0" width="12.126947674128575" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="102.05244897597932" height="8" fill="#427819"/>
+                    <rect mask="url(#languages-bar)" x="102.05244897597932" y="0" width="85.14596498681252" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="187.19841396279185" y="0" width="71.47616518860744" height="8" fill="#3178c6"/>
+                    <rect mask="url(#languages-bar)" x="258.6745791513993" y="0" width="71.45214451347954" height="8" fill="#00B4AB"/>
+                    <rect mask="url(#languages-bar)" x="330.12672366487885" y="0" width="61.11918290761688" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="391.24590657249576" y="0" width="32.7210450852318" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="423.9669516577276" y="0" width="22.95928699130866" height="8" fill="#F05138"/>
+                    <rect mask="url(#languages-bar)" x="446.9262386490362" y="0" width="13.073761350963837" height="8" fill="#4F5D95"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -222,7 +222,7 @@
                             </div>
                             <small>
                                 <div>250 kB</div>
-                                <div>22.74%</div>
+                                <div>22.19%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -234,7 +234,7 @@
                             </div>
                             <small>
                                 <div>175 kB</div>
-                                <div>15.92%</div>
+                                <div>15.54%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -246,19 +246,19 @@
                             </div>
                             <small>
                                 <div>150 kB</div>
-                                <div>13.62%</div>
+                                <div>13.29%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#F05138" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PHP
+                                Swift
                             </div>
                             <small>
-                                <div>32.1 kB</div>
-                                <div>2.91%</div>
+                                <div>56.3 kB</div>
+                                <div>4.99%</div>
                             </small>
                         </div>
                     </section>
@@ -272,7 +272,7 @@
                             </div>
                             <small>
                                 <div>209 kB</div>
-                                <div>18.97%</div>
+                                <div>18.51%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -284,7 +284,7 @@
                             </div>
                             <small>
                                 <div>175 kB</div>
-                                <div>15.92%</div>
+                                <div>15.53%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -296,19 +296,19 @@
                             </div>
                             <small>
                                 <div>80.3 kB</div>
-                                <div>7.29%</div>
+                                <div>7.11%</div>
                             </small>
                         </div>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#555555" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#4F5D95" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                C
+                                PHP
                             </div>
                             <small>
-                                <div>29 kB</div>
-                                <div>2.64%</div>
+                                <div>32.1 kB</div>
+                                <div>2.84%</div>
                             </small>
                         </div>
                     </section>
